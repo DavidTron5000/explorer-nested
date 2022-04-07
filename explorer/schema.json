@@ -4,7 +4,7 @@
   "title": "Product",
   "description": "Product information",
   "type": "object",
-  "properties": {
+  "properties {
     "Product": {
       "description": "Product information",
       "type": "array",
